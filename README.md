@@ -68,7 +68,7 @@ cd Bhakti-Sangeet-App
 3. Add your API keys and storage configuration in `local.properties` or a secured file (do not commit keys).
 
 ## Screenshort
-![SplashScreen](../assets/images/logo.png)
+![SplashScreen](../Code/Photo/splashscreen.png)
 
 
 ### Run
