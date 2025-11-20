@@ -68,9 +68,9 @@ cd Bhakti-Sangeet-App
 3. Add your API keys and storage configuration in `local.properties` or a secured file (do not commit keys).
 
 ## Screenshort
- <img scr="">
+![SplashScreen](../assets/images/logo.png)
 
- 
+
 ### Run
 
 * Select an Android emulator or device and click **Run** in Android Studio.
