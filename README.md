@@ -81,7 +81,7 @@ cd Bhakti-Sangeet-App
 
 * Select an Android emulator or device and click **Run** in Android Studio.
 
----
+
 
 ## Example: Simple ExoPlayer service (Kotlin)
 
