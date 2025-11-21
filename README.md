@@ -68,12 +68,13 @@ cd Bhakti-Sangeet-App
 3. Add your API keys and storage configuration in `local.properties` or a secured file (do not commit keys).
 
 ## Screenshort
+## Screenshots
 <p align="center">
   <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/splashscreen.png" width="250" style="margin-right:20px;">
   <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/signpage.png" width="250" style="margin-right:20px;">
-  <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/loginpage.png" width="250"style="margin-right:20px;>
-      
+  <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/loginpage.png" width="250" style="margin-right:20px;">
 </p>
+
 
 
 ## API ideas (Backend)
