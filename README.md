@@ -68,7 +68,6 @@ cd Bhakti-Sangeet-App
 3. Add your API keys and storage configuration in `local.properties` or a secured file (do not commit keys).
 
 ## Screenshort
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/splashscreen.png" width="250" style="margin-right:20px;">
   <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/signpage.png" width="250" style="margin-right:20px;">
@@ -78,9 +77,9 @@ cd Bhakti-Sangeet-App
 
 
 ### Run
-
+```
 * Select an Android emulator or device and click **Run** in Android Studio.
-
+```
 
 
 ## Example: Simple ExoPlayer service (Kotlin)
@@ -109,6 +108,7 @@ class SimplePlayerService : Service() {
 
     override fun onBind(intent: Intent?): IBinder? = null
 }
+
 ```
 
 > Note: Use a foreground service with media session to support background playback and notification controls.
