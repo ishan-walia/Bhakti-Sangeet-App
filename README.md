@@ -76,45 +76,6 @@ cd Bhakti-Sangeet-App
 </p>
 
 
-### Run
-```
-* Select an Android emulator or device and click **Run** in Android Studio.
-```
-
-
-## Example: Simple ExoPlayer service (Kotlin)
-
-```kotlin
-// SimplePlayerService.kt (short example)
-class SimplePlayerService : Service() {
-    private lateinit var player: ExoPlayer
-
-    override fun onCreate() {
-        super.onCreate()
-        player = ExoPlayer.Builder(this).build()
-    }
-
-    fun play(url: String) {
-        val mediaItem = MediaItem.fromUri(url)
-        player.setMediaItem(mediaItem)
-        player.prepare()
-        player.play()
-    }
-
-    override fun onDestroy() {
-        player.release()
-        super.onDestroy()
-    }
-
-    override fun onBind(intent: Intent?): IBinder? = null
-}
-
-```
-
-> Note: Use a foreground service with media session to support background playback and notification controls.
-
----
-
 ## API ideas (Backend)
 
 * `GET /songs` — list songs with fields: id, title, artist, url, thumbnail, duration, category
