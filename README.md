@@ -76,7 +76,6 @@ cd Bhakti-Sangeet-App
       
 </p>
 
-<br>
 
 ### Run
 
