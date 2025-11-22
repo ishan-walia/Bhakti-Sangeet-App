@@ -8,6 +8,13 @@
 
 **Bhakti-Sangeet-App** is a mobile app that lets users listen to devotional songs, create playlists, download for offline listening, and follow artists. The app targets Android (Kotlin) but the README keeps guidance general so you can adapt it to other platforms.
 
+
+
+## About the App
+
+Bhakti Sangeet is a devotional Android application designed to bring peace and spirituality through beautiful Hanuman Ji Bhajans, Chalisa, Aarti, and more.
+The app has a clean UI, fast audio playback, and simple controls for all users.
+
 ### Key Features
 
 * Browse devotional songs by category (bhajan, kirtan, aarti, bhajan singer).
@@ -80,7 +87,6 @@ cd Bhakti-Sangeet-App
   <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/" width="250" style="margin-right:20px;">
 </p>
 
-videoscreen.png
 ## API ideas (Backend)
 
 * `GET /songs` — list songs with fields: id, title, artist, url, thumbnail, duration, category
@@ -189,6 +195,12 @@ Related issue:
 How tested:
 ```
 
----
+### 👨‍💻 Developer
+
+```
+Developer Name: Ishan Walia
+Campany Name: Walia Creations
+Made with Love ❤️ for Devotees of Hanuman Ji
+```
 
 *This README is a starter template. Tell me if you want a README specifically for Flutter, React Native, or a full Android Kotlin project — I will create a tailored README.*
