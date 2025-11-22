@@ -82,8 +82,8 @@ cd Bhakti-Sangeet-App
   <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/loginpage.png" width="250" style="margin-right:20px;">
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/videoscreen.png" width="250" style="margin-right:20px;">
-  <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/" width="250" style="margin-right:20px;">
+  <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/main.png" width="290" style="margin-right:20px;">
+  <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/videoscreen.png" width="260" style="margin-right:20px;">
   <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/" width="250" style="margin-right:20px;">
 </p>
 
