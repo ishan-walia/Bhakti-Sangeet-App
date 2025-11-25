@@ -80,13 +80,17 @@ cd Bhakti-Sangeet-App
   <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/splashscreen.png" width="250" style="margin-right:20px;">
   <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/signpage.png" width="250" style="margin-right:20px;">
   <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/loginpage.png" width="250" style="margin-right:20px;">
-</p>
-<p align="center">
   <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/main.png" width="290" style="margin-right:20px;">
   <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/videoscreen.png" width="260" style="margin-right:20px;">
   <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/" width="250" style="margin-right:20px;">
+    <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/ramji.png" width="260" style="margin-right:20px;">
+  <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/ganesh.png" width="260" style="margin-right:20px;">
+  <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/hanuman.png" width="260" style="margin-right:20px;">
+    <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/khatu.png" width="260" style="margin-right:20px;">
+  <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/krishna.png" width="260" style="margin-right:20px;">
+  <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/mata rani.png" width="260" style="margin-right:20px;">
+  <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/bolanath.png" width="260" style="margin-right:20px;">
 </p>
-
 ## API ideas (Backend)
 
 * `GET /songs` — list songs with fields: id, title, artist, url, thumbnail, duration, category
