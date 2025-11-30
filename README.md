@@ -89,6 +89,8 @@ cd Bhakti-Sangeet-App
   <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/krishna.png" width="260" style="margin-right:20px;">
   <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/mata rani.png" width="260" style="margin-right:20px;">
   <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/bolanath.png" width="260" style="margin-right:20px;">
+   <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/music.png" width="260" style="margin-right:20px;">
+  <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/profile.png" width="260" style="margin-right:20px;">
 </p>
 ## API ideas (Backend)
 
