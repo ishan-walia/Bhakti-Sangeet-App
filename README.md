@@ -40,15 +40,134 @@ The app has a clean UI, fast audio playback, and simple controls for all users.
 
 ```
 app/
-├─ src/
-│  ├─ main/
-│  │  ├─ java/com/yourorg/bhaktisangeet/
-│  │  │  ├─ ui/          # Activities & Fragments
-│  │  │  ├─ data/        # Repositories, DAOs, Models
-│  │  │  ├─ player/      # ExoPlayer wrapper & service
-│  │  │  └─ network/     # Retrofit APIs
-│  │  └─ res/            # layouts, drawables, values
-└─ build.gradle
+ ├── manifests/
+ │      └── AndroidManifest.xml
+ │
+ ├── java/
+ │    └── com.example.bhaktisangeet/
+ │           ├── activities/
+ │           │      ├── Splashscreen.kt           
+ │           │      ├── LoginActivity.kt          
+ │           │      ├── SignupActivity.kt        
+ │           │      ├── MainActivity.kt           
+ │           │      ├── MusicActivity.kt         
+ │           │      ├── VideoActivity.kt         
+ │           │
+ │           │      ├── AccountActivity.kt        
+ │           │
+ │           │      ├── BabaBalakNathJi.kt
+ │           │      ├── DurgamataJi.kt
+ │           │      ├── GaneshJi.kt
+ │           │      ├── HarMahadev.kt
+ │           │      ├── HanumanJi.kt
+ │           │      ├── KrishnaJi.kt             
+ │           │      ├── KhatushyamJi.kt         
+ │           │      └── Ramji.kt                
+ │           │
+ │           ├── adapters/
+ │           │      └── (RecyclerView adapters for music, videos)
+ │           │
+ │           ├── models/
+ │           │      ├── SongModel.kt
+ │           │      └── VideoModel.kt
+ │           │
+ │           ├── utils/
+ │           │      ├── MediaPlayerHelper.kt      ← (VERY IMPORTANT)
+ │           │      ├── ExoPlayerHelper.kt
+ │           │      └── SharedPrefs.kt
+ │           │
+ │           ├── viewmodel/
+ │           │      └── (only if you use MVVM)
+ │           │
+ │           └── data/
+ │                 └── Repository.kt
+ │
+ ├── res/
+ │    ├── layout/
+ │    │     ├── activity_main.xml
+ │    │     ├── activity_music.xml
+ │    │     ├── activity_login.xml
+ │    │     ├── activity_signup.xml
+ │    │     ├── activity_splashscreen.xml
+ │    │     ├── activity_account.xml
+ │    │     ├── activity_video.xml
+ │    │     ├── activity_hanumanji.xml
+ │    │     ├── activity_bababalaknathji.xml
+ │    │     ├── activity_krishnaji.xml
+ │    │     ├── activity_khatushyamji.xml
+ │    │     ├── activity_ramji.xml
+ │    │     └── row_song_item.xml     (recommended RecyclerView)
+ │
+res/
+ ├── drawable/
+ │
+ │     ├── gods/
+ │     │     ├── ganesh_ji.webp
+ │     │     ├── hanuman_ji.png
+ │     │     ├── krishna_ji.png
+ │     │     ├── ram_ji.png            ← your file (ramji.png)
+ │     │     ├── shiva_ji.png          ← your file (shiva.png)
+ │     │     ├── durga_mata.png
+ │     │     ├── baba_balak_nath.png
+ │     │     ├── khatu_shyam_ji.png    ← your file (unnamed.png)
+ │     │     └── others…
+ │
+ │     ├── music_controls/
+ │     │     ├── playbutton.png        ← your file (playbutton.png)
+ │     │     ├── pause_button.png
+ │     │     ├── pause_icon.png
+ │     │     ├── btn_next.xml
+ │     │     ├── btn_previous.xml
+ │     │     ├── btn_repeat.xml
+ │     │     └── btn_favorite.xml
+ │
+ │     ├── icons/
+ │     │     ├── ic_home.xml
+ │     │     ├── ic_music.xml
+ │     │     ├── ic_account.xml
+ │     │     ├── ic_search.xml
+ │     │     ├── ic_video.xml
+ │     │     ├── email.png
+ │     │     ├── ema.png
+ │     │     ├── lock.png
+ │     │     └── pass.png
+ │
+ │     ├── backgrounds/
+ │     │     ├── round_bg_white.xml   
+ │     │     ├── search_bg.xml        
+ │     │     ├── rounded_white.xml
+ │     │     ├── card_rounded.xml
+ │     │     ├── border.xml
+ │     │     └── saffron_gradient.xml
+ │
+ │     ├── gradients/
+ │     │     ├── bg_gradient.xml
+ │     │     └── background_splash_screen.xml
+ │
+ │     └── misc/
+ │           ├── bhakti_app.png
+ │           ├── splash_logo.png
+ │           └── shape_seekbar_thumb.xml
+
+ │
+ │    ├── raw/
+ │    │     ├── artiganesh.mp3
+ │    │     ├── articri.mp3
+ │    │     ├── sya1.mp3
+ │    │     ├── ramji1.mp3
+ │    │     └── episode1.mp4
+ │
+ │    ├── menu/
+ │    │     └── bottom_nav_menu.xml
+ │
+ │    └── values/
+ │          ├── colors.xml
+ │          ├── strings.xml
+ │          ├── themes.xml
+ │          └── styles.xml
+ │
+ ├── build.gradle.kts
+ └── proguard-rules.pro
 ```
 
 ---
