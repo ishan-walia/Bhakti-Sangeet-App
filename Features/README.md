@@ -21,7 +21,7 @@
 - 🔄 Sync across devices (with optional cloud backend)  
 ## 📌 Version
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)
-
+![APK]()
 **Current Version:** `v1.0.0`
 
 ### Versioning Strategy
