@@ -40,7 +40,13 @@ The app has a clean UI, fast audio playback, and simple controls for all users.
 * Media storage: Cloud Storage (Firebase Storage / S3).
 
 ---
+## 🔮 Future Scope
 
+- AI Bhajan Recommendation
+- Live Aarti Streaming
+- Temple Donation Gateway
+- Multi-language Voice Control
+- Android TV version
 ## Folder Structure (Android - recommended)
 
 ```
