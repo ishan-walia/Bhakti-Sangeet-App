@@ -230,7 +230,13 @@ cd Bhakti-Sangeet-App
 * `GET /search?q=...` — search songs and artists
 
 ---
+## 🛠️ Admin Panel (Coming Soon)
 
+- Upload new bhajans
+- Delete or update songs
+- Send push notifications
+- Manage users & playlists
+- Festival banners & offers
 ## Database (Room) — Example entity
 
 ```kotlin
