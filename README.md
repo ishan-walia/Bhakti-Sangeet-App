@@ -1,3 +1,8 @@
+![Android](https://img.shields.io/badge/Platform-Android-green)
+![Kotlin](https://img.shields.io/badge/Language-Kotlin-blue)
+![Firebase](https://img.shields.io/badge/Backend-Firebase-orange)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-MIT-purple)
 # Bhakti-Sangeet-App
 
 > Simple, easy-to-use devotional music (bhakti) streaming app for Android.
