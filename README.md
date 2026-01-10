@@ -184,7 +184,13 @@ res/
 * Android Studio Flamingo or newer
 * JDK 11+
 * Internet connection (for streaming)
+## 🎯 Use Cases
 
+✔ College Android Major Project  
+✔ Spiritual Audio Streaming App  
+✔ Firebase Learning Project  
+✔ Ready to Publish on Play Store  
+✔ Can be Monetized with Ads  
 ### Install
 
 1. Clone the repo:
