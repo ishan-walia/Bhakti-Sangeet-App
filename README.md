@@ -302,7 +302,15 @@ This project is MIT licensed — change if you want a different license.
 If you need help: open an issue or contact `your.email@example.com`.
 
 ---
+## 📲 Download APK
 
+> Direct install on Android:
+
+🔗 **[Download Bhakti Sangeet APK](https://your-apk-link-here.apk)**
+
+Version: 1.0  
+Size: ~25 MB  
+Minimum Android: 7.0+
 ### Templates (Optional)
 
 **Issue template**
