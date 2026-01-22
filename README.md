@@ -199,9 +199,12 @@ res/
 ✔ Can be Monetized with Ads  
 
 ## ❓ FAQ
+
 Q: Is internet required?
 A: Yes, for streaming. Offline works for downloaded songs.
 
+Q: Is this app free?
+A: Yes, 100% free.
 
 
 ## 🏆 Play Store Ready
