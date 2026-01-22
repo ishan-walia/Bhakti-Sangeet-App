@@ -342,6 +342,10 @@ This project is MIT licensed — change if you want a different license.
 
 ---
 
+## 🏷️ Tags
+
+#Android #Kotlin #Firebase #MusicApp #Bhajan #HanumanJi #MajorProject
+
 ## Contact
 
 If you need help: open an issue or contact `your.email@example.com`.
