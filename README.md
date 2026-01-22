@@ -197,6 +197,10 @@ res/
 ✔ Firebase Learning Project  
 ✔ Ready to Publish on Play Store  
 ✔ Can be Monetized with Ads  
+
+## ❓ FAQ
+
+
 ## 🏆 Play Store Ready
 
 - ✔ Privacy Policy
