@@ -206,6 +206,9 @@ A: Yes, for streaming. Offline works for downloaded songs.
 Q: Is this app free?
 A: Yes, 100% free.
 
+Q: Can I upload my own bhajans?
+A: Admin panel coming soon.
+
 
 ## 🏆 Play Store Ready
 
