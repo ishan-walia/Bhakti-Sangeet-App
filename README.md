@@ -190,6 +190,13 @@ res/
 * Android Studio Flamingo or newer
 * JDK 11+
 * Internet connection (for streaming)
+
+## 🌐 Supported Devices
+
+- Android Phones
+- Android Tablets
+- (Android TV – Coming Soon)
+
 ## 🎯 Use Cases
 
 ✔ College Android Major Project  
