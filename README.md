@@ -240,20 +240,22 @@ cd Bhakti-Sangeet-App
 ## Screenshort
 ## Screenshots
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/splashscreen.png" width="260" style="margin-right:20px;">
-  <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/signpage.png" width="260" style="margin-right:20px;">
-  <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/loginpage.png" width="260" style="margin-right:20px;">
-  <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/main.png" width="280" style="margin-right:20px;">
-  <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/videoscreen.png" width="260" style="margin-right:20px;">
-    <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/ramji.png" width="260" style="margin-right:20px;">
-  <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/ganesh.png" width="290" style="margin-right:20px;">
-  <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/hanuman.png" width="260" style="margin-right:20px;">
-    <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/khatu.png" width="260" style="margin-right:20px;">
-  <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/krishna.png" width="260" style="margin-right:20px;">
-  <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/mata rani.png" width="260" style="margin-right:20px;">
-  <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/bolanath.png" width="260" style="margin-right:20px;">
-   <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/music.png" width="260" style="margin-right:20px;">
-  <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/profile.png" width="260" style="margin-right:20px;">
+  <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/page1.png" width="290" style="margin-right:20px;">
+  <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/page2.png" width="290" style="margin-right:20px;">
+  <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/page3.png" width="290" style="margin-right:20px;">
+  <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/page4.png" width="290" style="margin-right:20px;">
+  <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/page5.png" width="290" style="margin-right:20px;">
+    <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/page6.png" width="290" style="margin-right:20px;">
+  <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/page7.png" width="290" style="margin-right:20px;">
+  <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/page8.png" width="290" style="margin-right:20px;">
+    <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/page16.png" width="290" style="margin-right:20px;">
+  <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/page15.png" width="290" style="margin-right:20px;">
+  <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/page14.png" width="290" style="margin-right:20px;">
+  <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/page13.png" width="310" style="margin-right:20px;">
+   <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/page10.png" width="340" style="margin-right:20px;">
+  <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/page9.png" width="290" style="margin-right:20px;">
+ <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/page11.png" width="290" style="margin-right:20px;">
+ <img src="https://raw.githubusercontent.com/ishan-walia/Bhakti-Sangeet-App/main/Code/Photo/page12.png" width="290" style="margin-right:20px;">
 </p>
 ## API ideas (Backend)
 
